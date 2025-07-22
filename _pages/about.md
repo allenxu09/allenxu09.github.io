@@ -6,7 +6,7 @@ subtitle: <i> Amor Fati. </i>
 
 profile:
   align: right
-  image: allenxu.png
+  image: allenxu02.png
   image_circular: false # crops the image to make it circular
   more_info:
 

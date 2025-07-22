@@ -10,8 +10,8 @@
   --global-code-bg-color: #{$code-bg-color-light};
   --global-text-color: #{$black-color};
   --global-text-color-light: #{$grey-color};
-  --global-theme-color: #44c38e;
-  --global-hover-color: #1d9567;
+  --global-theme-color: oklch(0.707 0.165 254.624);
+  --global-hover-color: oklch(0.623 0.214 259.815);
   --global-hover-text-color: #{$white-color};
   --global-footer-bg-color: #{$grey-color-dark};
   --global-footer-text-color: #{$grey-color-light};
