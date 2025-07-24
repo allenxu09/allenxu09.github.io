@@ -1,9 +1,10 @@
 ---
 layout: page
 title: Geography Marking Bot
-description: 
+description: An AI-powered Bot for Geography Case Study Marking.
 img: assets/img/geo.jpg
 importance: 1
-category: fun
+category: Dev
 related_publications: false
+redirect: https://geo.hytallenxu.tech
 ---
