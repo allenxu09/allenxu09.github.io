@@ -63,7 +63,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-geography-marking-bot",
           title: 'Geography Marking Bot',
-          description: "",
+          description: "An AI-powered Bot for Geography Case Study Marking.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/geo/";
             },},{id: "projects-puzzlendar",
