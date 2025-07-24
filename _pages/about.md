@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: <i> Amor Fati. </i>
 
@@ -30,5 +30,5 @@ I am a passionate learner and researcher in the field of computer science. I co-
 We have organized numerous events, including lectures and competitions, to promote interest in mathematics and computer science among peers. 
 In particular, we have hosted the **1024 Coding Challenge**, which has become an annual, prestigious event for students interested in programming and algorithmic problems.
 
-Beyond academics, I also have deep interests in both **music** and **philosophy**. I claim myself to be an "amateur" composer, where I enjoy creating music in my free time. 
-I have my musician account **Allen Xu** on [Tencent Music](https://y.qq.com/n/ryqq/singer/001KW0bV14rcka), where I share my original compositions. Hope you enjoy them!
+Beyond academics, I also have deep interests in both **music** and **philosophy**. I am an amateur composer, and I often create compositions during my free time (for fun). 
+My musician account **Allen Xu** is on [Tencent Music](https://y.qq.com/n/ryqq/singer/001KW0bV14rcka), where I share my original works. Hope you enjoy them!
